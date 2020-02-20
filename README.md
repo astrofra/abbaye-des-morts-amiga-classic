@@ -11,3 +11,4 @@ INTRODUCTION
 Abbaye des Morts is a freeware game made by LocoMalito (with the help of Gryzor87 in music side) in 2010.
 
 ![Splash Screen](https://raw.githubusercontent.com/astrofra/Abbaye-des-morts-Amiga-classic/master/abbaye_splash.png)
+![Splash Screen](https://raw.githubusercontent.com/astrofra/Abbaye-des-morts-Amiga-classic/master/Abbaye_Amiga_OCS_WIP.gif)
