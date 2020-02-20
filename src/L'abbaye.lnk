@@ -1,0 +1,5 @@
+FROM LIB:c.o "main.o"+"drawing.o"+"startscreen.o"+"history.o"+"game.o"+"loading.o"+"jean.o"+"enemies.o"+"ending.o"+"gameover.o"+"aga_sdl.o"
+TO "L'abbaye"
+LIB LIB:scmnb.lib
+    LIB:scnb.lib LIB:amiga.lib
+
